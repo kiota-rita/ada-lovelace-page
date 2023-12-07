@@ -2,6 +2,9 @@
 
 Acesse aqui: [Ada Lovelace](https://kiota-rita.github.io/ada-lovelace-page/)
 
-
-
+#### Features adicionadas:
+* blockquote;
+* cards;
+* list;
+* footer.
 
